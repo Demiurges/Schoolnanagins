@@ -1,0 +1,4 @@
+#!/bin/bash
+echo -e "What do you want to search for? -->\c"
+read ANSWER
+grep -i $ANSWER ~/hardware.database
