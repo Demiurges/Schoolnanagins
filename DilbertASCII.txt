@@ -1,3 +1,5 @@
+#Dilbert says Hello!
+
                           .s*"*s+.                         
                           $;    `*b. .ss.                
                           `Ts.    `TP' `T..ss.           
@@ -29,7 +31,7 @@ P       `Ts.      `*Tb.                  $
           `Ts.       `$Tb._             :;               
 b           `Ts.    .d$$$$$$$g+._       $                
 $b            `Ts..dP'T$$$$$  `"*^Tbs+sd;                
-$P*.            `TP'b  `T$$$ [bug]     :b                
+$P*.            `TP'b  `T$$$           :b                
 P   $.             d$.  JTd$         _.sP+.              
      $$._         d$$$sP*' $bss++ssdP*'  `*Ts._          
      $$$$Ts._  _.d$$$$$b                     `*Tbs.      
